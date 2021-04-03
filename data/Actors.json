@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$mc_spsh","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"mcportrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"MC","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":0,"characterName":"$shark_spsh","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"sharkportrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sharky","nickname":"","note":"","profile":""}
+]
